@@ -1,6 +1,6 @@
 {
   "name": "jest-runner-eslint",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "main": "build/runner",
   "author": "Rogelio Guzman <rogelioguzmanh@gmail.com>",
   "description": "An ESLint runner for Jest",
@@ -34,7 +34,7 @@
     "@babel/core": "^7.10.4",
     "@babel/preset-env": "^7.10.4",
     "babel-jest": "^27 || ^28 || ^29 || ^30",
-    "eslint": "^7 || ^8",
+    "eslint": "^7 || ^8 || ^9",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^10.0.0",
     "eslint-formatter-codeframe": "^7.32.1",
